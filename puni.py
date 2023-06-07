@@ -1,1 +1,1 @@
-print("sanith is a bad boy")
+print("punith is a bad boy")
